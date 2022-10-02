@@ -14,6 +14,7 @@ def hesapla():
     global x
     global y
     global islem
+
     x = float(input("1. sayı = "))
     y = float(input("2. sayı = "))
     islem = input("işlemi girin = ")
