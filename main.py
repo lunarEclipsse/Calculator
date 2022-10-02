@@ -18,6 +18,7 @@ def hesapla():
     x = float(input("1. sayı = "))
     y = float(input("2. sayı = "))
     islem = input("işlemi girin = ")
+
     if islem is "+":
         topla()
     elif islem is "-":
