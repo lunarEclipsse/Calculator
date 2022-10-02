@@ -28,4 +28,5 @@ def hesapla():
     elif islem is "/":
         bol()
 
+
 hesapla()
